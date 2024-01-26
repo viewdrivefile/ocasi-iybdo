@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ocasi-iybdo/static/css/main.b92fcee1.css",
+    "main.js": "/ocasi-iybdo/static/js/main.e47642b8.js",
+    "static/js/787.965bbfa2.chunk.js": "/ocasi-iybdo/static/js/787.965bbfa2.chunk.js",
+    "index.html": "/ocasi-iybdo/index.html",
+    "main.b92fcee1.css.map": "/ocasi-iybdo/static/css/main.b92fcee1.css.map",
+    "main.e47642b8.js.map": "/ocasi-iybdo/static/js/main.e47642b8.js.map",
+    "787.965bbfa2.chunk.js.map": "/ocasi-iybdo/static/js/787.965bbfa2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b92fcee1.css",
+    "static/js/main.e47642b8.js"
+  ]
+}
